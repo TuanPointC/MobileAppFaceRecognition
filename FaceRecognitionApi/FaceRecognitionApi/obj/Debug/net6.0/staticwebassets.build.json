@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A2BixBGAaWFiGXYFD43z+Zx5HxZO024W8QgKWffCjgE=",
+  "Source": "FaceRecognitionApi",
+  "BasePath": "_content/FaceRecognitionApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
